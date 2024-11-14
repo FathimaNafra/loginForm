@@ -1,0 +1,7 @@
+{
+    "domain": "dev-o4d57wmcds7jvy8y.us.auth0.com",
+    "clientId": "ONw9MtVjIe5r1ZANKgXLGAOVlgOV99pd",
+    "audience": "https://myloginapp/api",
+    "redirectUri": "http://localhost:3000/callback"
+  }
+  
